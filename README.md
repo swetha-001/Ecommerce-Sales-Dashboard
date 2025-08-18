@@ -4,6 +4,9 @@
 
 The objective of this project was to analyze an E-commerce store’s sales performance and measure target achievements across categories, states and time periods. The challenge was to handle different granularity levels in the dataset (daily sales vs. monthly targets), build a reliable data model and create an interactive Power BI dashboard to derive actionable insights.
 
+## 📺 Live Dashboard
+🔗 [Explore Interactive Power BI Dashboard](https://app.powerbi.com/links/mpuwhWVvEa?ctid=df0d903c-35e1-4261-89f6-89ac92f9ef70&pbi_source=linkShare)
+
 ## Data Overview
 
 The dataset consists of three tables:
